@@ -1,0 +1,19 @@
+{
+  "name": "kris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "prettier": "npx prettier . --write",
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "prettier": "^3.0.3"
+  }
+}
